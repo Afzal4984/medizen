@@ -18,9 +18,6 @@ Cura is a cutting-edge AI-powered health assistant designed to help you monitor 
 
 Check out the live demo of Cura here: [Live Preview](http://cura-ai.vercel.app) <!-- Replace with your actual live preview link -->
 
-## 🎥 Watch Tutorial on YouTube
-
-Check out the tutorial to see how this authentication system was built: [Watch the Tutorial](https://www.youtube.com/watch?v=7ZtF5AlG0SM) 💻
 
 ## 💻 Tech Stack
 
@@ -42,7 +39,7 @@ To run Cura locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Shreyas-29/cura.git
+    git clone https://github.com/Afzal4984/cura.git
     ```
 2. Install dependencies:
     ```bash
@@ -80,14 +77,14 @@ To run Cura locally, follow these steps:
 
 ## ☕ Buy Me a Coffee
 If you enjoy using caps.ai, consider supporting my work!  
-[Buy Me a Coffee ☕](https://buymeacoffee.com/shreyas29)
+[Buy Me a Coffee ☕](https://buymeacoffee.com/Afzal4984)
 
 ## 📜 License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## 💬 Contact
-If you have any questions or feedback, feel free to reach out via [GitHub Issues](https://github.com/Shreyas-29/cura/issues).
+If you have any questions or feedback, feel free to reach out via [GitHub Issues](https://github.com/Afzal4984/medizen/issues).
 
 ---
 
-Built with ❤️ by [Shreyas](https://github.com/Shreyas-29)
+Built with ❤️ by [Shaik Afzal](https://github.com/Afzal4984)
